@@ -1,5 +1,5 @@
 <div align=center><h1>📚 STACKS</h1></div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;" justify-content: center; align-items: center; text-align: center;>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; text-align: center;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
