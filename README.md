@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0078D4?style=for-the-badge&logo=javascript&logoColor=white)
-![eGovFrame](https://img.shields.io/badge/eGovFrame-003366?style=for-the-badge&logoColor=white)
+![전자정부프레임워크](https://img.shields.io/badge/eGovFrame%20(Eclipse)-003366?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
