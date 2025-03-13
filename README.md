@@ -24,4 +24,11 @@
     <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 </div>
-
+<div>
+<h1>자격증</h1>
+<h3>사회복지사 1급</h3>    
+<h3>SQLD</h3>
+<h3>컴퓨터활용능력 2급</h3>    
+<h3>워드프로세서</h3>
+<h3>정보처리기사(필기)</h3>    
+</div>
