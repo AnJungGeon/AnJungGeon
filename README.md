@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
     <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket">
+    <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+    <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="MyBatis">
 </div>
 <div>
 <h1>자격증</h1>
