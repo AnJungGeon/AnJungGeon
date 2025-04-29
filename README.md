@@ -31,6 +31,3 @@
 <h3>워드프로세서</h3>
 <h3>정보처리기사(필기)</h3>    
 </div>
-<div>
-    ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnJungGeon)
-</div>
