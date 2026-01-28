@@ -23,11 +23,3 @@
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
     <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="MyBatis">
 </div>
-<div>
-<h1>자격증</h1>
-<h3>사회복지사 1급</h3>    
-<h3>SQLD</h3>
-<h3>컴퓨터활용능력 2급</h3>    
-<h3>워드프로세서</h3>
-<h3>정보처리기사(필기)</h3>    
-</div>
