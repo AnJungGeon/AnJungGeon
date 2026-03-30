@@ -32,10 +32,3 @@
     <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
     <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="MyBatis">
 </div>
-<div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnJungGeon&show_icons=true&theme=github_dark" width="45%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnJungGeon&layout=compact&theme=github_dark&cache_seconds=60" width="34%"/>
-</p>
-</div>
